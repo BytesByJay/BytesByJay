@@ -7,18 +7,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 💼 **Full-Stack Developer** with **3+ years of experience** building robust web applications
-- 🔭 Currently working on **Launchbox** and **Indic-OCR**
-- 🌱 Exploring advanced system programming, ML-based OCR systems, and performance optimization
-- 💬 Ask me about **Python, FastAPI, Celery, Docker, Performance Testing, Security Testing**
-- 📫 Reach me at: **[dhananjayan.official@gmail.com]** *(dhananjayan.official@gmail.com)*
-- ⚡ Fun fact: **I build network sniffers and web servers from scratch!**
+- **Full-Stack Developer** with **3+ years of experience** building robust web applications
+- Currently working on **Launchbox** and **Indic-OCR**
+- Exploring advanced system programming, ML-based OCR systems, and performance optimization
+- Ask me about **Python, FastAPI, Celery, Docker, Performance Testing, Security Testing**
+- Reach me at: **[dhananjayan.official@gmail.com]** *(dhananjayan.official@gmail.com)*
+- Fun fact: **I build network sniffers and web servers from scratch!**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
