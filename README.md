@@ -13,7 +13,7 @@
 - Currently working on **Launchbox** and **Indic-OCR**
 - Exploring advanced system programming, ML-based OCR systems, and performance optimization
 - Ask me about **Python, FastAPI, Celery, Docker, Performance Testing, Security Testing**
-- Reach me at: **[dhananjayan.official@gmail.com]** *(dhananjayan.official@gmail.com)*
+- Reach me at: **[dhananjayan.official@gmail.com]**
 - Fun fact: **I build network sniffers and web servers from scratch!**
 
 ---
