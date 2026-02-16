@@ -1,49 +1,105 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dhananjay Haridas</h1>
-<h3 align="center">A passionate Back-end developer from India</h3>
+<h3 align="center">Full-Stack Developer | Building Scalable Web Solutions</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/media/522522daf8b5c0871a2cd66d0f423919.gif">
-
-<p align="left"> <a href="https://twitter.com/twr_dhananjayan" target="blank"><img src="https://img.shields.io/twitter/follow/twr_dhananjayan?logo=twitter&style=for-the-badge" alt="twr_dhananjayan" /></a> </p>
-
-<p align="left">
-  <a href="https://instagram.com/dhananjay.haridas?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on-Instagram-%23bc2a8d?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BytesByJay&label=Profile%20views&color=0e75b6&style=flat" alt="BytesByJay" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjayanonline&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjayanonline" /> </p>
+---
 
-- 🔭 I’m currently working on [PySniffer](https://github.com/DhananjayanOnline/pysniffer)
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Cyber Security**
+- 💼 **Full-Stack Developer** with **3+ years of experience** building robust web applications
+- 🔭 Currently working on **Launchbox** and **Indic-OCR**
+- 🌱 Exploring advanced system programming, ML-based OCR systems, and performance optimization
+- 💬 Ask me about **Python, FastAPI, Celery, Docker, Performance Testing, Security Testing**
+- 📫 Reach me at: **[dhananjayan.official@gmail.com]** *(dhananjayan.official@gmail.com)*
+- ⚡ Fun fact: **I build network sniffers and web servers from scratch!**
 
-- 👨‍💻 All of my projects are available at [https://dhananjayan-portfolio.herokuapp.com/](https://dhananjayan-portfolio.herokuapp.com/)
+---
 
-- 💬 Ask me about **Python, Django, DRF, Fastapi**
+### 🛠️ Tech Stack
 
-- 📫 How to reach me **dhananjayan.official@gmail.com**
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dhananjayanonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dhananjayanonline" height="30" width="40" /></a>
-<a href="https://twitter.com/twr_dhananjayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twr_dhananjayan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhananjayan-online" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjayan-online" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15755335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15755335" height="30" width="40" /></a>
-<a href="https://fb.com/fb.dhananjayharidas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.dhananjayharidas" height="30" width="40" /></a>
-<a href="https://instagram.com/dhananjay.haridas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhananjay.haridas" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhananjayan_onl1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhananjayan_onl1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhananjayanonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhananjayanonline" height="30" width="40" /></a>
+**Frameworks & Tools:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Testing & Security:**  
+![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-2C2255?style=for-the-badge&logo=owasp&logoColor=white)
+
+---
+
+### Featured Projects
+
+#### 🔹 [Indic-OCR](https://github.com/BytesByJay/Indic-OCR)
+> **Multi-Language OCR System for Indian Regional Scripts**  
+> A machine learning-based OCR solution that detects, classifies, and accurately recognizes text from multiple Indian regional scripts, converting it into editable Unicode text.
+
+**Tech:** Python, Machine Learning, OCR
+
+---
+
+#### 🔹 [pysniffer](https://github.com/BytesByJay/pysniffer)
+> **Network Packet Sniffer built with Python**  
+> A network analysis tool for capturing and analyzing network traffic, built from scratch using raw sockets.
+
+**Tech:** Python, Network Programming, Raw Sockets
+
+---
+
+#### 🔹 [C-web](https://github.com/BytesByJay/C-web)
+> **Lightweight HTTP Web Server in C**  
+> A custom-built web server written in C, demonstrating low-level network programming and HTTP protocol implementation.
+
+**Tech:** C, Socket Programming, HTTP
+
+---
+
+#### 🔹 [Launchbox](https://github.com/BytesByJay/Launchbox)
+> **Project Launcher & Management Tool**  
+> A Python-based utility for streamlining project initialization and management workflows.
+
+**Tech:** Python, Automation
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BytesByJay&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BytesByJay&theme=radical" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BytesByJay&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+---
 
+### 🤝 Connect with Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhananjayanonline&show_icons=true&locale=en&layout=compact" alt="dhananjayanonline" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dhananjayan-online/)) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio.com](https://dhananjayharidas.com/))
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dhananjayanonline&show_icons=true&locale=en" alt="dhananjayanonline" /></p>
+---
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjayanonline&" alt="dhananjayanonline" /></p>
+<p align="center">
+  <i> "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</p>
