@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Haridas</h1>
-<h3 align="center">Full-Stack Developer | Building Scalable Web Solutions</h3>
+<h3 align="center">Full-Stack Engineer | Architects Scalable Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BytesByJay&label=Profile%20views&color=0e75b6&style=flat" alt="BytesByJay" />
