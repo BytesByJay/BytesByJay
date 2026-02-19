@@ -101,7 +101,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://dhananjayharidas.com/](https://dhananjayharidas.com/))
 
 ---
-
-<p align="center">
-  <i> "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</p>
