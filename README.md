@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhananjay Haridas</h1>
+<h1 align="center">Hi, I'm Dhananjay Haridas</h1>
 <h3 align="center">Full-Stack Engineer | Architects Scalable Systems</h3>
 
 <p align="center">
