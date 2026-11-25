@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Dhananjayan Haridas</h1>
+<h1 align="center">Hi, I'm Dhananjay Haridas</h1>
 <h3 align="center">Software Engineer | Backend & AI Engineering</h3>
 
 <p align="center">
