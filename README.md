@@ -10,7 +10,7 @@
 
 ### About Me
 
-- **Software Engineer** with **3.5+ years of experience** building production backend systems and AI-powered applications.
+- **Software Engineer** with **3.7+ years of experience** building production backend systems and AI-powered applications.
 - Experienced in **distributed systems, asynchronous processing, RAG, and multi-agent orchestration**.
 - Joined an AI startup as its first Data Engineer, built its AI orchestration platform, and later led a five-engineer team.
 - Currently exploring **Agentic AI, system design, infrastructure, and performance engineering**.
